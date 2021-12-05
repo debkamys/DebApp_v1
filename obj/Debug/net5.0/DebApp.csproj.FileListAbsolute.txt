@@ -1,0 +1,15 @@
+/Users/debkamys/DebApp/bin/Debug/net5.0/DebApp.deps.json
+/Users/debkamys/DebApp/bin/Debug/net5.0/DebApp.runtimeconfig.json
+/Users/debkamys/DebApp/bin/Debug/net5.0/DebApp.runtimeconfig.dev.json
+/Users/debkamys/DebApp/bin/Debug/net5.0/DebApp.dll
+/Users/debkamys/DebApp/bin/Debug/net5.0/ref/DebApp.dll
+/Users/debkamys/DebApp/bin/Debug/net5.0/DebApp.pdb
+/Users/debkamys/DebApp/obj/Debug/net5.0/DebApp.csproj.AssemblyReference.cache
+/Users/debkamys/DebApp/obj/Debug/net5.0/DebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/debkamys/DebApp/obj/Debug/net5.0/DebApp.AssemblyInfoInputs.cache
+/Users/debkamys/DebApp/obj/Debug/net5.0/DebApp.AssemblyInfo.cs
+/Users/debkamys/DebApp/obj/Debug/net5.0/DebApp.csproj.CoreCompileInputs.cache
+/Users/debkamys/DebApp/obj/Debug/net5.0/DebApp.dll
+/Users/debkamys/DebApp/obj/Debug/net5.0/ref/DebApp.dll
+/Users/debkamys/DebApp/obj/Debug/net5.0/DebApp.pdb
+/Users/debkamys/DebApp/obj/Debug/net5.0/DebApp.genruntimeconfig.cache
